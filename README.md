@@ -13,7 +13,7 @@ To better connect people
 - - -
 
 ### **SETUP**
-The user must put enter his name, upload a photo, and fill out the survey.
+The user must enter his name, upload a photo, and fill out the survey.
 
 - - -
 

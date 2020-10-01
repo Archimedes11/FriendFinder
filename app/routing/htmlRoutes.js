@@ -2,7 +2,6 @@ var express = require("express");
 var path = require("path");
 var app = express();
 
-// var server = require("../server.js");
 
 module.exports = function (app) {
   app.get("/", function (req, res) {

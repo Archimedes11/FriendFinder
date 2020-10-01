@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Achilles11/FriendFinder.git"
+    "url": "git+https://github.com/Archimedes11/FriendFinder.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Achilles11/FriendFinder/issues"
+    "url": "https://github.com/Archimedes11/FriendFinder/issues"
   },
-  "homepage": "https://github.com/Achilles11/FriendFinder#readme",
+  "homepage": "https://github.com/Archimedes11/FriendFinder#readme",
   "dependencies": {
     "express": "^4.17.1",
     "path": "^0.12.7"
